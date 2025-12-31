@@ -1,4 +1,4 @@
-# Run Performance Drop-Off Analysis
+# Run Performance Drop-Off Analysis 
 
 ## Problem Statement
 Endurance runners often aim to complete long runs at an easy aerobic effort, but performance degradation can still occur due to fatigue, training load, or recovery demands. This project analyzes personal Strava running data to determine whether long runs and increasing distance lead to higher effort, slower pace, or long-term declines in aerobic efficiency.
