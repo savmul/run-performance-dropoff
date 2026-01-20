@@ -28,3 +28,9 @@ If GitHub has trouble rendering the notebooks, you can view them here:
 
 - **Notebook 02 – Drop-off Analysis**  
   https://nbviewer.org/github/savmul/run-performance-dropoff/blob/main/notebooks/02_dropoff_analysis.ipynb
+
+## SQL Queries
+
+Supporting SQL queries used for exploratory analysis and validation can be found here:
+
+https://github.com/savmul/run-performance-dropoff/tree/main/sql/queries
