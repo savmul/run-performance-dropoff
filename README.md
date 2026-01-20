@@ -18,3 +18,13 @@ To explore whether longer runs are associated with greater pace drop-off and how
 - Exploratory analysis comparing pace and effort across run types
 
 ## Project Structure
+
+## View the Analysis
+
+If GitHub has trouble rendering the notebooks, you can view them here:
+
+- **Notebook 01 – Data Inspection**  
+  https://nbviewer.org/github/savmul/run-performance-dropoff/blob/main/notebooks/01_data_inspection.ipynb
+
+- **Notebook 02 – Drop-off Analysis**  
+  https://nbviewer.org/github/savmul/run-performance-dropoff/blob/main/notebooks/02_dropoff_analysis.ipynb
