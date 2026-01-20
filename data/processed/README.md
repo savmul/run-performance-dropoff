@@ -17,4 +17,7 @@ This folder contains cleaned and processed datasets derived from the original St
 ## Notes
 - Raw Strava exports are excluded for privacy
 - Processed datasets were generated via Python notebooks in `/notebooks`
+-`long_runs.csv` is a small sample showing the processed schema used in analysis.
+Full processed outputs are omitted for privacy.
+
 
